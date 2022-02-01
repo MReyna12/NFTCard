@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'Outfit', sans-serif;
+}
+
+main {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: hsl(217, 54%, 11%)
+}
+
+.card-container {
+  background: hsl(216, 50%, 16%);
+  border-radius: 1.25em;
+  max-width: 335px;
+}
+
+.content-container {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+}
+
+a > img {
+  border-radius: 1.875em;
+  width: 100%;
+  padding: 1.4em;
+}
+
+h1 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  padding-bottom: .8em;
+}
+
+.pricing-time {
+  padding-bottom: 1.5em;
+  padding-top: 1.3em;
+  border-bottom: 1px solid hsl(215, 32%, 27%);
+  display: flex;
+  justify-content: space-between;
+}
+
+p,
+figcaption {
+  font-size: 17px;
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+}
+
+li {
+  list-style: none;
+}
+
+.etherium {
+  color: hsl(178, 100%, 50%);
+}
+
+.avatar > img {
+  max-width: 30px;
+  margin-right: 10px;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+
+.avatar {
+  padding-top: 1em;
+  padding-bottom: 2em;
+  display: flex;
+  align-items: center;
+}
+
+h1 > a:hover,
+.author:hover {
+  color: hsl(178, 100%, 50%);
+}
+
+a {
+  text-decoration: none;
+  color:hsl(0, 0%, 100%);
+}
+
