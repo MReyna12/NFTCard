@@ -89,13 +89,13 @@ figcaption {
   align-items: center;
 }
 
+a {
+  text-decoration: none;
+  color:hsl(0, 0%, 100%);
+}
+
 h1 > a:hover,
 .author:hover {
   color: hsl(178, 100%, 50%);
   transition: 0.5s;
-}
-
-a {
-  text-decoration: none;
-  color:hsl(0, 0%, 100%);
 }
