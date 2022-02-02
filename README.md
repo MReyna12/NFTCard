@@ -32,7 +32,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### What I learned
 
-The difficult part of this challenge was placing an overlay on the image of the 3d-cube. I couldn't quite figure out where I needed to place my classes or where I needed to place the `div` for the overlay. After watching the video mentioned below, I composed the following HTML:
+The difficult part of this challenge was placing an overlay on the image of the 3d-cube. I couldn't quite figure out where I needed to place my classes or where I needed to place the `div` for the overlay. After watching the video mentioned in [useful resources](#useful-resources), I composed the following HTML:
 
 ![image](index-screenshot.png)
 
