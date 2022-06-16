@@ -48,5 +48,5 @@ Now that I had my HTML in place, I was able to compose corresponding CSS:
 ## Author
 
 - Frontend Mentor - [@MReyna12](https://www.frontendmentor.io/profile/MReyna12)
-- Twitter - [@Fraktionn](https://twitter.com/Fraktionn)
+- Twitter - [@michaelpreyna](https://twitter.com/michaelpreyna)
 - LinkedIn - [@michaelpreyna](https://www.linkedin.com/in/michaelpreyna/)
